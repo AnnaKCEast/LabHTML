@@ -1,0 +1,24 @@
+html {
+  background-color:blueviolet;
+  }
+h1 {
+  color:navy
+  }
+#roosters {
+  font-family: Apple-Chancery;
+  border-color:darkgoldenrod;
+  border-width: medium;
+  font-style:ridge
+  }
+#cpr {
+  font-family: Andale-Mono;
+  border-color:rgb(34, 151, 65);
+  border-width: large;
+  font-style: oblique
+  }
+#symphony {
+    font-family: fantasy;
+    border-color:rgb(156, 56, 138);
+    border-width: small;
+    font-style: italic
+  }
